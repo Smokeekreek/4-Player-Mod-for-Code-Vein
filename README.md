@@ -15,3 +15,4 @@ Created and developed by **Smokeekreek**.
 
 
 This mod is a current WIP and will be worked on as the start date of 8/17/2025.
+The mod is not available yet I as intend to make sure that everything works and will be tested before it is released
